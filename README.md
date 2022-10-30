@@ -1,6 +1,9 @@
 # face_detection
 
 <!--
+#field
+AI
+
 #groups
 Computer Vision
 
